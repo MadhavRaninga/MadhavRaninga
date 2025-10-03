@@ -50,13 +50,14 @@
 ### 🏆 **Top Repositories**
 
 <p align="center">
-  <a href="https://github.com/MadhavRaninga/your-best-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=your-best-project&theme=radical" />
+  <a href="https://github.com/MadhavRaninga/Ajio-website-project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=Ajio-website-project&theme=radical" />
   </a>
-  <a href="https://github.com/MadhavRaninga/another-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=another-project&theme=radical" />
+  <a href="https://github.com/MadhavRaninga/add-to-cart-project-js" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=add-to-cart-project-js&theme=radical" />
   </a>
 </p>
+
 
 ---
 
