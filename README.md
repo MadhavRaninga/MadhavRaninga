@@ -10,7 +10,7 @@
   <a href="https://github.com/MadhavRaninga" target="_blank">
     <img src="https://img.shields.io/github/followers/MadhavRaninga?label=Follow&style=social" alt="GitHub Follow Badge" />
   </a>
-  <a href="madhavraninga3@gmail.com">
+  <a href="[madhavraninga3@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
