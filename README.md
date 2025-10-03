@@ -56,6 +56,9 @@
   <a href="https://github.com/MadhavRaninga/add-to-cart-project-js" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=add-to-cart-project-js&theme=radical" />
   </a>
+  <a href="https://github.com/MadhavRaninga/beauty-project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=beauty-project&theme=radical" />
+  </a>
 </p>
 
 ---
