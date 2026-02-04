@@ -54,9 +54,18 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavRaninga&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavRaninga&theme=radical" alt="GitHub Streak" height="180px"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MadhavRaninga&show_icons=true&theme=radical&cache_seconds=86400"
+    alt="GitHub Stats"
+    height="180px"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=MadhavRaninga&theme=radical"
+    alt="GitHub Streak"
+    height="180px"
+  />
 </p>
+
 
 ---
 
