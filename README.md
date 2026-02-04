@@ -11,9 +11,14 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" style="filter: invert(1);" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:madhavraninga3@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" style="filter: invert(1);" alt="Email" />
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:madhavraninga3@gmail.com">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+    width="28"
+    style="filter: invert(1);"
+    alt="Email"
+  />
+</a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/madhav-raninga-91a661341/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="filter: invert(1);" alt="LinkedIn" />
