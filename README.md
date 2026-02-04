@@ -8,19 +8,19 @@
 <!-- Social icons -->
 <p align="center">
   <a href="https://github.com/MadhavRaninga" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" height="28" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:madhavraninga3@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" height="28" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/madhav-raninga-91a661341/" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/YOUR_PROFESSIONAL_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" height="28" alt="Instagram" />
   </a>
 </p>
 
