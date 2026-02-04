@@ -55,16 +55,20 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MadhavRaninga&show_icons=true&theme=radical&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=MadhavRaninga&show_icons=true&theme=radical&hide_border=true"
     alt="GitHub Stats"
-    height="180px"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=MadhavRaninga&theme=radical"
-    alt="GitHub Streak"
-    height="180px"
+    height="180"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MadhavRaninga&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
+
 
 
 ---
