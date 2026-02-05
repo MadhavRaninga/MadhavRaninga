@@ -25,7 +25,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="filter: invert(1);" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/ma.dhav_6144/" target="_blank">
+  <a href="https://www.instagram.com/ma.dhav_6144" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" style="filter: invert(1);" alt="Instagram" />
   </a>
 </p>
