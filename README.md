@@ -76,16 +76,23 @@
 ### 🏆 **Top Repositories**
 
 <p align="center">
-  <a href="https://github.com/MadhavRaninga/Ajio-website-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=Ajio-website-project&theme=radical" />
-  </a>
-  <a href="https://github.com/MadhavRaninga/add-to-cart-project-js" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=add-to-cart-project-js&theme=radical" />
-  </a>
-  <a href="https://github.com/MadhavRaninga/beauty-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=beauty-project&theme=radical" />
+  <a href="https://github.com/MadhavRaninga/Ajio-website-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=Ajio-website-project&theme=radical&cache_seconds=86400" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/MadhavRaninga/add-to-cart-project-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=add-to-cart-project-js&theme=radical&cache_seconds=86400" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MadhavRaninga/beauty-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=beauty-project&theme=radical&cache_seconds=86400" />
+  </a>
+</p>
+
 
 ---
 
