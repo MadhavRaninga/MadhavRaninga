@@ -8,28 +8,21 @@
 <!-- Social icons -->
 <p align="center">
   <a href="https://github.com/MadhavRaninga" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" style="filter: invert(1);" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=madhavraninga3@gmail.com" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
-    width="28"
-    style="filter: invert(1);"
-    alt="Email"
-  />
-</a>&nbsp;&nbsp;&nbsp;
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madhavraninga3@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/madhav-raninga-91a661341/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="filter: invert(1);" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/ma.dhav_6144" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" style="filter: invert(1);" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" alt="Instagram" />
   </a>
 </p>
-
 
 ---
 
