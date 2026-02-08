@@ -75,24 +75,14 @@
 
 ### 🏆 **Top Repositories**
 
-<p align="center">
-  <a href="https://github.com/MadhavRaninga/Ajio-website-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=Ajio-website-project&theme=radical&cache_seconds=86400" />
-  </a>
-</p>
+🔹 **AJIO Website Project (React UI Clone)**  
+👉 https://github.com/MadhavRaninga/Ajio-website-project
 
-<p align="center">
-  <a href="https://github.com/MadhavRaninga/add-to-cart-project-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=add-to-cart-project-js&theme=radical&cache_seconds=86400" />
-  </a>
-</p>
+🔹 **Add To Cart – JavaScript**  
+👉 https://github.com/MadhavRaninga/add-to-cart-project-js
 
-<p align="center">
-  <a href="https://github.com/MadhavRaninga/beauty-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhavRaninga&repo=beauty-project&theme=radical&cache_seconds=86400" />
-  </a>
-</p>
-
+🔹 **Beauty Website UI**  
+👉 https://github.com/MadhavRaninga/beauty-project
 
 ---
 
