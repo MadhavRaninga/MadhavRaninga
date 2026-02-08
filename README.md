@@ -77,16 +77,22 @@
 
 ### 🏆 **Top Repositories**
 
-🔹 **AJIO Website Project (React UI Clone)**  
-👉 https://github.com/MadhavRaninga/Ajio-website-project
+🔹 **E-Commerce Web App (MERN Stack)**  
+👉 https://github.com/MadhavRaninga/E-commerce-frontend  
+*React, Node.js, Express, MongoDB • Authentication, Cart, Orders*
+
+🔹 **AJIO Clone (JavaScript-based E-commerce UI)**  
+👉 https://github.com/MadhavRaninga/Ajio-website-project  
+*HTML, CSS, JavaScript • Dynamic UI, Responsive Layout*
 
 🔹 **Add To Cart – JavaScript**  
-👉 https://github.com/MadhavRaninga/add-to-cart-project-js
+👉 https://github.com/MadhavRaninga/add-to-cart-project-js  
+*JavaScript, LocalStorage, DOM Manipulation*
 
 🔹 **Beauty Website UI**  
-👉 https://github.com/MadhavRaninga/beauty-project
+👉 https://github.com/MadhavRaninga/beauty-project  
+*HTML, CSS • UI Design*
 
----
 
 ### ✨ **Visitor Count**
 
