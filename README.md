@@ -46,7 +46,7 @@
 ### 🛠️ **Languages & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,c,cpp,git,github" />
 </p>
 
 ---
