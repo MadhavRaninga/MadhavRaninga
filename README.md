@@ -8,19 +8,19 @@
 <!-- Social icons -->
 <p align="center">
   <a href="https://github.com/MadhavRaninga" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" alt="GitHub" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-GitHub-f5f5f5?style=flat&logo=github&logoColor=555555" alt="GitHub" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madhavraninga3@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" alt="Email" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Email-f5f5f5?style=flat&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/madhav-raninga-91a661341/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-LinkedIn-f5f5f5?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/ma.dhav_6144" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-f5f5f5?style=flat&logo=instagram&logoColor=C13584" alt="Instagram" />
   </a>
 </p>
 
