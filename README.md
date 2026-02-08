@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/MadhavRaninga" target="_blank">Madhav Raninga</a> 👋</h1>
 
 <p align="center">
-  <em>🚀 Passionate Frontend Developer | 💻 Web Designer | 🌱 Lifelong Learner</em>
+  <em>🚀 Passionate Full-Stack Developer | 💻 Web Designer | 🌱 Lifelong Learner</em>
 </p>
 
 <!-- Social icons -->
