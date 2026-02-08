@@ -1,21 +1,97 @@
-# 💫 About Me:
-i am full stack developer <br>
+<!-- 👋 Hi Section -->
+<h1 align="center">Hi there, I'm <a href="https://github.com/MadhavRaninga" target="_blank">Madhav Raninga</a> 👋</h1>
+
+<p align="center">
+  <em>🚀 Passionate Frontend Developer | 💻 Web Designer | 🌱 Lifelong Learner</em>
+</p>
+
+<!-- Social icons -->
+<p align="center">
+  <a href="https://github.com/MadhavRaninga" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" style="filter: invert(1);" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=madhavraninga3@gmail.com" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+    width="28"
+    style="filter: invert(1);"
+    alt="Email"
+  />
+</a>&nbsp;&nbsp;&nbsp;
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ma.dhav_6144) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhav-raninga-91a661341/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhavraninga3@gmail.com) 
+  <a href="https://www.linkedin.com/in/madhav-raninga-91a661341/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="filter: invert(1);" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Madhav Raninga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Madhav Raninga&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav Raninga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <a href="https://www.instagram.com/ma.dhav_6144" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" style="filter: invert(1);" alt="Instagram" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Madhav Raninga&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Madhav Raninga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 **About Me**
+
+- 🔭 I’m currently working on **Frontend Projects using React & Tailwind**
+- 🌱 I’m currently learning **Advanced React & API Integrations**
+- 👯 I’m looking to collaborate on **Creative Frontend Projects**
+- 💬 Ask me about **HTML, CSS, JS, React & UI Design**
+- ⚡ Fun fact: **I love building modern, clean and responsive UIs**
+
+---
+
+### 🛠️ **Languages & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MadhavRaninga&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MadhavRaninga&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
+
+
+
+---
+
+### 🏆 **Top Repositories**
+
+🔹 **AJIO Website Project (React UI Clone)**  
+👉 https://github.com/MadhavRaninga/Ajio-website-project
+
+🔹 **Add To Cart – JavaScript**  
+👉 https://github.com/MadhavRaninga/add-to-cart-project-js
+
+🔹 **Beauty Website UI**  
+👉 https://github.com/MadhavRaninga/beauty-project
+
+---
+
+### ✨ **Visitor Count**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MadhavRaninga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<h3 align="center">🚀 Let's build something amazing together!</h3>
