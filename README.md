@@ -28,11 +28,15 @@
 
 ### 🧠 **About Me**
 
-- 🔭 I’m currently working on **Frontend Projects using React & Tailwind**
-- 🌱 I’m currently learning **Advanced React & API Integrations**
-- 👯 I’m looking to collaborate on **Creative Frontend Projects**
-- 💬 Ask me about **HTML, CSS, JS, React & UI Design**
-- ⚡ Fun fact: **I love building modern, clean and responsive UIs**
+🔭 I’m currently working on Full-Stack web projects using React, Node.js, Express & MongoDB
+
+🌱 I’m currently learning advanced React patterns, backend APIs, and full-stack best practices
+
+👯 I’m looking to collaborate on Full-Stack or Frontend projects, especially MERN-based applications
+
+💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express, MongoDB & REST APIs
+
+⚡ Fun fact: I enjoy building complete applications—from UI design to backend logic
 
 ---
 
