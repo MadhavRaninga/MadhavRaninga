@@ -40,15 +40,16 @@
 
 ---
 
+---
+
 ### 🛠️ **Languages & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,c,cpp,git,github,npm,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,c,cpp,git,github,npm,postman,vercel,vscode,figma,redux,nextjs,netlify,firebase" />
 </p>
 
-
-
 ---
+
 
 ### 📊 **GitHub Stats**
 
